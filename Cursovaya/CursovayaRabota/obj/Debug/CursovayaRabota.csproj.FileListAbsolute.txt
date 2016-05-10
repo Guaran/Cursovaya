@@ -1,0 +1,11 @@
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\bin\Debug\CursovayaRabota.exe.config
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\bin\Debug\CursovayaRabota.exe
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\bin\Debug\CursovayaRabota.pdb
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\obj\Debug\CursovayaRabota.csprojResolveAssemblyReference.cache
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\obj\Debug\CursovayaRabota.Form1.resources
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\obj\Debug\CursovayaRabota.Properties.Resources.resources
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\obj\Debug\CursovayaRabota.csproj.GenerateResource.Cache
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\obj\Debug\CursovayaRabota.exe
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\obj\Debug\CursovayaRabota.pdb
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\obj\Debug\CursovayaRabota.AddForm.resources
+E:\KOSTYA\Учеба\Всякие программы\C#\CursovayaRabota\CursovayaRabota\obj\Debug\CursovayaRabota.DInfo.resources
